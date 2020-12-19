@@ -1,6 +1,4 @@
 
-#John Glenn Villegas
-
 #stores the events
 total = []
 tWarn = []
